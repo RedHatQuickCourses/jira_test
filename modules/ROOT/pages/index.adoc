@@ -1,0 +1,27 @@
+= Jira Test Course (Placeholder)
+:navtitle: Home
+
+== Introduction
+
+Course Title: Jira Test Course (Placeholder)
+
+Description:
+Placeholder course for testing the Red Hat Quick Course template and Jira integration.
+
+Duration: 1 hour
+
+== Objectives
+
+On completing this course, you should be able to:
+
+* Observable, measurable objective...
+* Observable, measurable objective...
+* Observable, measurable objective...
+
+== Prerequisites
+
+This course assumes that you have the following prior experience:
+
+* Course or experience...
+* Course or experience...
+* Course or experience...

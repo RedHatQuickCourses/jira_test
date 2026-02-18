@@ -1,0 +1,12 @@
+= Jira Test Course (Placeholder)
+:navtitle: Home
+
+== Introduction
+
+TITLE1: Jira Test (placeholder product)
+
+TITLE2: Break-fix Practice 1 (placeholder title)
+
+Description:
+This is a placeholder break-fix course for testing the template and Jira integration. Replace with real scenario when building a real course.
+
